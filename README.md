@@ -1,5 +1,5 @@
 - 👀 Interesado en la ciberseguridad
-- 🌱 Aprendiendo bash, luego le damos a python
+- 🌱 Aprendiendo bash, luego le damos al python
 - 📫 ¿Como llegar a mi? Nadie puede, estamos?
 
 <!---
